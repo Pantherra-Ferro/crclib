@@ -1,0 +1,6 @@
+[submodule "thirdparty/xbee"]
+	path = thirdparty/xbee
+	url = https://github.com/andrewrapp/xbee-arduino.git
+[submodule "thirdparty/neo_pixel"]
+	path = thirdparty/neo_pixel
+	url = https://github.com/adafruit/Adafruit_NeoPixel.git
